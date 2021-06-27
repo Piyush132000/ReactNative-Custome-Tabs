@@ -1,0 +1,14 @@
+com/reactnativetabs/ReactNativeFlipper.java
+ com.reactnativetabs.ReactNativeFlipper
+ com.reactnativetabs.ReactNativeFlipper$1
+ com.reactnativetabs.ReactNativeFlipper$2
+ com.reactnativetabs.ReactNativeFlipper$2$1
+com/reactnativetabs/MainActivity.java
+ com.reactnativetabs.MainActivity
+com/reactnativetabs/MainApplication.java
+ com.reactnativetabs.MainApplication
+ com.reactnativetabs.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/reactnativetabs/BuildConfig.java
+ com.reactnativetabs.BuildConfig
